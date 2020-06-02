@@ -1,4 +1,5 @@
 # webpack-boilerplate
+npm install webpack-dev-server --save-dev  - создание node_modules
 
 npm run dev  - запускает дев сервер и открывает нужный адрес в дефолтном браузере.
 
